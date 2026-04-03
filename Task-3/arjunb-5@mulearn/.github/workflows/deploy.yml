@@ -24,7 +24,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./Task-2/arjunb-5@mulearn
+          path: ./Task-3/arjunb-5@mulearn
 
       - name: Deploy to GitHub Pages
         id: deployment
